@@ -1,1 +1,1 @@
-# CalculadoraDeArea.
+# CalculadoraDeArea
